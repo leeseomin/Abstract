@@ -2,6 +2,13 @@
 
 
 
+### Suffering
+
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/suffering.png" width="85%">    
+ 
+ <br/><br/>
+ 
+ 
 
 
 ### Untitled 2
