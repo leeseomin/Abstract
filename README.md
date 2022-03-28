@@ -4,7 +4,7 @@
 
 ### Suffering
 
- <img src="https://github.com/leeseomin/Abstract/blob/main/art/suffering.png" width="85%">    
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/suffering.png" width="90%">    
  
  <br/><br/>
  
@@ -12,7 +12,7 @@
 
 ### Untitled 2
 
- <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled2.png" width="85%">    
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled2.png" width="90%">    
  
  <br/><br/>
 
@@ -20,7 +20,7 @@
 
 ### Untitled 3
 
- <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled3.png" width="85%">    
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled3.png" width="90%">    
  
  <br/><br/>
 
