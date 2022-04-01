@@ -56,7 +56,7 @@ https://foundation.app/collection/abstract-techne
 
 ### Untitled 10
 
- <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled10.png" width="90%">    
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled10A.png" width="90%">    
  
  <br/><br/>
  
