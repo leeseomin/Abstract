@@ -59,7 +59,14 @@ https://foundation.app/collection/abstract-techne
  <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled10H.png" width="90%">    
  
  <br/><br/>
+
+
+
+### Untitled 12
+
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled12.png" width="90%">    
  
+ <br/><br/>
 
 
 
