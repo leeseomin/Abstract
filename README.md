@@ -13,6 +13,10 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
 
 
 
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled15.png" width="90%">    
+ 
+ <br/><br/>
+
  ### Untitled 14
 
  <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled14.png" width="90%">    
