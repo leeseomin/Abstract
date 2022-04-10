@@ -4,7 +4,10 @@
 ### :o: NFT marketplaces  :point_down:
 
 Foundation :
-https://foundation.app/collection/abstract-techne
+https://foundation.app/collection/abstract-techne 
+ <br/>
+OpenSea : 
+https://opensea.io/collection/abstract-2-by-lee-seomin 
 
  <br/><br/>
 
