@@ -11,6 +11,14 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
 
  <br/><br/>
 
+
+
+ ### Untitled 14
+
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled14.png" width="90%">    
+ 
+ <br/><br/>
+
 ### Suffering
 
  <img src="https://github.com/leeseomin/Abstract/blob/main/art/suffering.png" width="90%">    
@@ -72,11 +80,7 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
  <br/><br/>
  
  
- ### Untitled 14
 
- <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled14.png" width="90%">    
- 
- <br/><br/>
 
  ### Untitled 15
 
