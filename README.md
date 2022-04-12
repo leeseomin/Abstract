@@ -5,7 +5,7 @@
 
 Foundation :
 https://foundation.app/collection/abstract-techne 
- <br/>
+ <br/><br/>
 OpenSea : 
 https://opensea.io/collection/abstract-2-by-lee-seomin 
 
