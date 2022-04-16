@@ -109,14 +109,14 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
 
  ### Existential anxiety 1
 
- <img src="https://github.com/leeseomin/Abstract/blob/main/art/anxiety%20of%20existence1.png" width="80%">    
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/anxiety%20of%20existence1.png" width="90%">    
  
  <br/><br/>
 
 
  ### Existential anxiety 2
 
- <img src="https://github.com/leeseomin/Abstract/blob/main/art/Existential_anxiety2.png" width="80%">    
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/Existential_anxiety2.png" width="90%">    
  
  <br/><br/>
 
