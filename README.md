@@ -24,7 +24,7 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
  <br/><br/>
  
 
-### Suffering
+### Two Strangers
 
  <img src="https://github.com/leeseomin/Abstract/blob/main/art/two_strangers.png" width="90%">    
  
