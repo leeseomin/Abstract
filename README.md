@@ -22,6 +22,15 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
  <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled14.png" width="90%">    
  
  <br/><br/>
+ 
+
+### Suffering
+
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/two_strangers.png" width="90%">    
+ 
+ <br/><br/>
+ 
+ 
 
 ### Suffering
 
