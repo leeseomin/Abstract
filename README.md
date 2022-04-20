@@ -11,11 +11,7 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
 
  <br/><br/>
 
- ### Untitled 15
 
- <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled15.png" width="90%">    
- 
- <br/><br/>
 
  ### Untitled 14
 
@@ -149,7 +145,11 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
  
  <br/><br/>
  
+ ### Untitled 27
+
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled27.png" width="90%">    
  
+ <br/><br/>
  
  
 
