@@ -168,7 +168,7 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
 
  ### Untitled 32
 
- <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled30.png" width="90%">    
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled32.png" width="90%">    
  
  <br/><br/>
  
