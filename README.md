@@ -185,7 +185,11 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
  
  <br/><br/>
  
+### Untitled 38
+
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled38.png" width="50%">    
  
+ <br/><br/>
  
  
 
