@@ -236,7 +236,11 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
  <br/><br/>
 
 
+ ### Saṃsāra  
 
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/samsara.png" width="90%">    
+ 
+ <br/><br/>
 
 
 
