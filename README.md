@@ -3,10 +3,12 @@
 
 ### :o: NFT marketplaces  :point_down:
 
-Foundation : Abstract 1
+Foundation : Abstract 1 
+ <br/>
 https://foundation.app/collection/abstract-techne 
  <br/><br/>
 OpenSea : Abstract 2
+ <br/>
 https://opensea.io/collection/abstract-2-by-lee-seomin 
 
  <br/><br/>
