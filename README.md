@@ -1,12 +1,12 @@
-# Abstract
+# Abstract 1 & 2 by LEE SEOMIN
  <br/><br/>
 
 ### :o: NFT marketplaces  :point_down:
 
-Foundation :
+Foundation : Abstract 1
 https://foundation.app/collection/abstract-techne 
  <br/><br/>
-OpenSea : 
+OpenSea : Abstract 2
 https://opensea.io/collection/abstract-2-by-lee-seomin 
 
  <br/><br/>
