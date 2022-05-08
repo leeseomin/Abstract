@@ -265,7 +265,7 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
  
  <br/><br/> 
  
-### Untitled 64  (6 41 40 1)
+### Untitled 64 :  (6 41 40 1)
 
  <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled64.png" width="90%">    
  
