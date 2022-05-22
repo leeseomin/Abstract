@@ -314,6 +314,13 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
  <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled77.png" width="90%">    
  
  <br/><br/> 
+
+### Untitled 80
+
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled80.png" width="90%">    
+ 
+ <br/><br/> 
+ 
  
 
  ### Existential anxiety 1
