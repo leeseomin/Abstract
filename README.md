@@ -13,7 +13,7 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
 
  <br/>
 
-Abstract 3  link
+### :o: Abstract 3 
  <br/>
 https://github.com/leeseomin/Abstract3
 
